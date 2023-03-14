@@ -22,6 +22,6 @@ Please refer to the cifar10_classifier.py for the replication of our experiment.
 
 The preprocessing.py module implements the functions that preprocess the data with necessary steps before training. 
 
-The train_predict.py module implements the definition of model, and the stakeholders may use it to test different outputs by adjusting the prameters inside the alexnet() function, as well as the batch size, epoch size. 
+The train_predict.py module implements the definition of model, and the stakeholders may use it to test different outputs by adjusting the prameters inside the `alexnet()` function, as well as the batch size, epoch size. 
 
 The necessary libraries for each module are listed at the top of the file, please refer to that to install the libraries for model training as well as train history, and prediction visualization. 
