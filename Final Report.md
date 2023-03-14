@@ -3,6 +3,7 @@
 
 (Albert) Hutiancong Wang, Lesley Xu, Sabrina Lin
 
+Disclaimer: Find the most updated and formatted report in our gradescope submission (PDF format).
 
 ## Summary of Research Questions
 1. How can we process images and extract content out of them?
