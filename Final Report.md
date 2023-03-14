@@ -5,6 +5,10 @@
 
 Disclaimer: Find the most updated and formatted report in our gradescope submission (PDF format).
 
+
+## Appendix
+For the previous DL on 256 Dataset, please see the results and refer to the colab URL here: (https://colab.research.google.com/drive/18k4Sz0Fv_7FYmk5sraQ6fy5e-YRqkmQN?authuser=1#scrollTo=ZuHWQcdHad7m), this would be restored to be worked on in the future.
+
 ## Summary of Research Questions
 1. How can we process images and extract content out of them?
 
