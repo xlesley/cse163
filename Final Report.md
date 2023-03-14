@@ -6,9 +6,6 @@
 Disclaimer: Find the most updated and formatted report in our gradescope submission (PDF format).
 
 
-## Appendix
-For the previous DL on 256 Dataset, please see the results and refer to the colab URL here: (https://colab.research.google.com/drive/18k4Sz0Fv_7FYmk5sraQ6fy5e-YRqkmQN?authuser=1#scrollTo=ZuHWQcdHad7m), this would be restored to be worked on in the future.
-
 ## Summary of Research Questions
 1. How can we process images and extract content out of them?
 
@@ -160,3 +157,6 @@ We used the following references to write and support our report:
 *Importance of train test split*
 - https://builtin.com/data-science/train-test--split#:~:text=Train%20test%20split%20is%20a%20model%20validation%20process%20that%20allows,would%20perform%20with%20new%20data. 
 
+
+## Appendix
+For the previous DL on 256 Dataset, please see the results and refer to the colab URL here: (https://colab.research.google.com/drive/18k4Sz0Fv_7FYmk5sraQ6fy5e-YRqkmQN?authuser=1#scrollTo=ZuHWQcdHad7m), this would be restored to be worked on in the future.
