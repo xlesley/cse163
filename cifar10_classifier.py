@@ -1,3 +1,12 @@
+"""
+Lesley Xu, (Albert) Hutiancong Wang, Sabrina Lin
+CSE 163 Final Project WI 2023
+This project implements AlexNet Architecture for Deep Learning
+techniques to classify images from CIFAR-10 dataset that contains
+60,000 32x32 color images in 10 classes with high level accuracy
+and regularization processes.
+"""
+
 # -*- coding: utf-8 -*-
 """CIFAR10-classifier.ipynb
 
