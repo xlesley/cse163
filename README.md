@@ -1,13 +1,15 @@
 # CSE163 Final Project
 **Lesley Xu, Hutiancong Wang, Sabrina Lin**
 
-## Here is where we get the dataset
+## The dataset
 https://www.cs.toronto.edu/~kriz/cifar.html
 
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.
 
+## The project
+In our project, we utilize the built-in dataset in tensorflow.keras.layers called `cifar-10` for classification task. We built our model using alexnet, and test our results by visualizing the loss, accuracy during the training, the predicted images. 
 
 ## Jupytor Notebook Version
 https://colab.research.google.com/drive/1ZoIDYsiNWJVMn8_TU2qlYLKMPRyYYhDt?usp=sharing
